@@ -1,0 +1,5 @@
+name: Motion
+version: '${project.version}'
+main: me.jabberjerry.motion.Motion
+api-version: 1.19
+depend: [CommandAPI]
